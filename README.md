@@ -49,16 +49,10 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivangini-coder&theme=radical&hide_border=true" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivangini-coder&theme=radical&no-frame=true&row=1&column=6" />
+  ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 </p>
 
 <br>
@@ -66,5 +60,5 @@
 ## 🌐 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivangini2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shivangini-gupta-igdtuw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivangini-gupta-igdtuw)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivangini-coder)
