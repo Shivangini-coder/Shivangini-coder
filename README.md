@@ -51,9 +51,7 @@
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
-</p>
+![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 
 <br>
 
